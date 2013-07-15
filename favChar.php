@@ -1,7 +1,7 @@
 <?php 
-if ($favChar == 'Willem Oostelbos'){
-	echo 'We both like Willem Oostelbos best!';
+if ($favChar == 'Homer Oostelbos'){
+	echo 'We both like Homer Oostelbos best!';
 } else {
-	echo 'Willem Oostelbos is better!';
+	echo 'Homer Oostelbos is better!';
 }
 ?>
