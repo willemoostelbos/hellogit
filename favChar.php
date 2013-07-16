@@ -4,4 +4,7 @@ if ($favChar == 'Willem Oostelbos'){
 } else {
 	print 'Willem Oostelbos is better!';
 }
+
+// new feature for later project
+// this is my new code
 ?>
