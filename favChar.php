@@ -7,4 +7,5 @@ if ($favChar == 'Willem Oostelbos'){
 
 // new feature for later project
 // this is my new code
+// and diff test
 ?>
